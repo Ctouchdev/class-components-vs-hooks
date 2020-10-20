@@ -4,7 +4,7 @@ import FunctionalComponent from "./FunctionalComponent";
 
 class App extends React.Component {
   render() {
-    return <ClassComponent />;
+    return <FunctionalComponent />;
   }
 }
 
